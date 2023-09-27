@@ -32,7 +32,7 @@ A aplicação consiste no projeto de conclusão de Sprint do MBA em Engenharia d
 A aplicação está dividida em 2 repositórios, sendo:
 
 - Back-end (Este repositório)
-- [Front-end](https://github.com/gustavoduartep/pucrio-mvp-front)
+- [Front-end](https://github.com/gustavoduartep/pucrio-mvp3-front)
 
 ```powershell
 
